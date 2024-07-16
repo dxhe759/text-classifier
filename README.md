@@ -1,2 +1,2 @@
 # text-classifier
-This is a 
+This is a text classifier to perform the sentiment analysis.
